@@ -8,7 +8,7 @@ I am an international student at SAIT majoring in Interactive Design Diploma. I 
 - 🌱 Currently, I am learning HTML, CSS and JavaScript
 - 📫 Contact me at: quocthinh.mai@edu.sait.ca
 - 🌎 My social media: [LinkedIn](https://www.linkedin.com/in/quoc-thinh-mai-507178160/)
-
+- 📚 My personal portfolio: [Behance](https://www.behance.net/maikevin)
 
 ## Skills
 1. *Logo & Branding*
