@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello, world! 👋
+
+##  About Me
+I am an international student at SAIT majoring in Interactive Design Diploma. I have a background in Graphic Designer and have been in the industry for almost 1 year. Currently, I am learning about Web Development with **HTML**, **CSS**, and **JavaScript** to build my own website in the future.
+
 
 <!--
 **quocthinhmai/quocthinhmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
