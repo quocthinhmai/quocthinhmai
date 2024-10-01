@@ -24,3 +24,7 @@ I am an international student at SAIT majoring in Interactive Design Diploma. I 
 ![illustrator-2](https://github.com/user-attachments/assets/2917d09d-da26-47d8-8d57-6fc2645596b4)
 ![photoshop-3](https://github.com/user-attachments/assets/81c518c0-16ac-421c-857d-63cd8955b62f)
 ![indesign-2](https://github.com/user-attachments/assets/bd1fe7fb-6b5e-42ca-ac8f-16d0be93fe97)
+
+## Languages
+HTML
+CSS
