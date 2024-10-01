@@ -4,6 +4,7 @@
 I am an international student at SAIT majoring in Interactive Design Diploma. I have a background in Graphic Designer and have been in the industry for almost 1 year. Currently, I am learning about Web Development with **HTML**, **CSS**, and **JavaScript** to build my own website in the future.
 
 - 🇻🇳 I am based in Vietnam
+- 🖌️ I am a graphic designer
 - ⚡ I love reading mystery books and playing badminton
 - 🌱 Currently, I am learning HTML, CSS and JavaScript
 - 📫 Contact me at: quocthinh.mai@edu.sait.ca
